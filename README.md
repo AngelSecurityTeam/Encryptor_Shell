@@ -9,3 +9,7 @@ Encryptor and File Manager
 <h3> DECRYPTION </h3>
 
 <img src="https://github.com/AngelSecurityTeam/Encryptor_Shell/blob/master/DECRYPTION.png">
+
+<h3> Paypal donations: </h3>
+
+* https://www.paypal.me/AngelSecurityTeam
