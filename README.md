@@ -2,6 +2,8 @@
 
 Encryptor and File Manager
 
+* git clone https://github.com/AngelSecurityTeam/Encryptor_Shell
+
 <h3> ENCRYPTION </h3>
 
 <img src="https://github.com/AngelSecurityTeam/Encryptor_Shell/blob/master/ENCRYPTION.png">
